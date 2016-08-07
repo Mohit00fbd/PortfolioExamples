@@ -144,6 +144,7 @@ Feel free to add more (in alphabetical order), or remove yours if you'd rather n
 * [michaelfogleman.com](https://www.michaelfogleman.com/)
 * [michaelpumo.com](http://michaelpumo.com/)
 * [mollyjameson.com](http://mollyjameson.com)
+* [mradul.me](http://mradul.me)
 * [nateberkopec.com](http://nateberkopec.com)
 * [nicholashorn.com](http://nicholashorn.com)
 * [nickfletchr.com](http://nickfletchr.com)
